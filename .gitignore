@@ -1,3 +1,19 @@
+# Sensitive credentials file
+credentials.py
+
+# Python virtualenv directories
+venv
+env
+
+# Emacs and similar backups
+*~
+~*
+
+
+#####################################################
+## Remainder of file is GitHub Python .gitignore
+#####################################################
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
